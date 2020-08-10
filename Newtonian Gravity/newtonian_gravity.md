@@ -7,3 +7,42 @@ __Newton's Law of Gravity__: Every particle attracts any other particle with a g
 Here *m<sub>1</sub>* and *m<sub>2</sub>* are the masses of the particles, *r* the distance between them and *G* the gravitational constant:
 
 ![equation](https://latex.codecogs.com/gif.latex?G%3D6.67%20%5Ctimes%2010%5E%7B-11%7D%5Cfrac%7BN%5Ccdot%20m%5E%7B2%7D%7D%7Bkg%5E%7B2%7D%7D)
+
+<br>
+<br>
+
+__Shell Theorem__: A uniform spherical shell of matter attracts a particle that is outside the shell as if all the shell's mass were concentrated at its center:
+
+<br>
+<br>
+
+__Principle of superposition__: a net effect is the sum of the individual effects.
+
+![equation](https://latex.codecogs.com/gif.latex?%5Coverrightarrow%7BF%7D_%7B1%2Cnet%7D%20%3D%20%5Coverrightarrow%7BF%7D_%7B12%7D&plus;%5Coverrightarrow%7BF%7D_%7B13%7D&plus;...&plus;%5Coverrightarrow%7BF%7D_%7B1n%7D)
+
+<br>
+<br>
+
+__Gravitational Potential Energy__:
+
+![equation](https://latex.codecogs.com/gif.latex?U%3D-%5Cfrac%7BGMm%7D%7Br%7D)
+
+<br>
+<br>
+
+__Kepler's Laws__: Consider a body with mass *m* orbiting another body with mass *M* such that m << M, therefore the system's center of mass is located at particle mass M center:
+
+![keppler](https://user-images.githubusercontent.com/68278907/89825698-484e1000-db55-11ea-9040-20f27bd234e2.png)
+
+The orbit is described by giving its semimajor axis *a* and its eccentricity *e*, the latter defined so that *ea* is the distance from the center of the ellipse to either focus F or F'.
+
+An eccentricity of zero corresponds to a circle.
+
+__The Law of Areas__: A line that connects a planet to the Sun sweeps out equal areas in the plane of the planet's orbit in equal time intervals; that is, the rate *d*A/*dt* at which it sweeps out area A is constant.
+
+__The Law of periods__: The square of the period of any planet is proportional to the cube of the semimajor axis of its orbit:
+
+![equation](https://latex.codecogs.com/gif.latex?T%5E%7B2%7D%3D%28%5Cfrac%7B4%5Cpi%5E%7B2%7D%7D%7BG%28M_%7B1%7D&plus;M_%7B2%7D%29%7D%29a%5E%7B3%7D)
+
+
+
