@@ -54,3 +54,13 @@ __Orbital Period of the Moon__:
 -G = 6.67 x 10<sup>-11</sup> m<sup>3</sup>/kg.s<sup>2</sup>
 
 ![equation](https://latex.codecogs.com/gif.latex?T%5E%7B2%7D%3D%28%5Cfrac%7B4%5Cpi%5E%7B2%7D%7D%7B%286.67%20%5Ctimes%2010%5E%7B-11%7D%5Cfrac%7Bm%5E%7B3%7D%7D%7Bkg%5Ccdot%20s%5E%7B2%7D%7D%29%285%2C%20972%20%5Ctimes%2010%5E%7B24%7Dkg&plus;7%2C347%20%5Ctimes%2010%5E%7B22%7Dkg%29%7D%29%283%2C844%20%5Ctimes%2010%5E%7B8%7Dm%29%5E%7B3%7D)
+
+![equation](https://latex.codecogs.com/gif.latex?T%5Capprox%202.36%20%5Ctimes%2010%5E%7B6%7Ds)
+
+or in terms of days:
+
+![equation](https://latex.codecogs.com/gif.latex?T%5Capprox%202.36%20%5Ctimes%2010%5E%7B6%7Ds%20%5Ctimes%20%5Cfrac%7B1%20%5C%20hour%7D%7B3600%20s%7D%5Ctimes%20%5Cfrac%7B1%20%5C%20day%7D%7B24%20hours%7D)
+
+thus:
+
+![equation](https://latex.codecogs.com/gif.latex?T%5Capprox%2027%2C3%20%5C%20days)
