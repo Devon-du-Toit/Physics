@@ -46,8 +46,11 @@ __The Law of periods__: The square of the period of any planet is proportional t
 
 __Orbital Period of the Moon__:
 -Mass of earth = 5,972 × 10<sup>24</sup> kg
+
 -Mass of the Moon = 7.34767309 × 10<sup>22</sup> kg
+
 -a = 3,844 x 10<sup>8</sup> m
+
 -G = 6.67 x 10<sup>-11</sup> m<sup>3</sup>/kg.s<sup>2</sup>
 
 ![equation](https://latex.codecogs.com/gif.latex?T%5E%7B2%7D%3D%28%5Cfrac%7B4%5Cpi%5E%7B2%7D%7D%7B%286.67%20%5Ctimes%2010%5E%7B-11%7D%5Cfrac%7Bm%5E%7B3%7D%7D%7Bkg%5Ccdot%20s%5E%7B2%7D%7D%29%285%2C%20972%20%5Ctimes%2010%5E%7B24%7Dkg&plus;7%2C347%20%5Ctimes%2010%5E%7B22%7Dkg%29%7D%29%283%2C844%20%5Ctimes%2010%5E%7B8%7D%29%5E%7B3%7D)
