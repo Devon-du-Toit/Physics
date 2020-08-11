@@ -77,5 +77,5 @@ __Arcs__:
 
 - 60 arc seconds = 1 arc minute. 
 
-- 60 arc minutes = 1 degree.ZA
+- 60 arc minutes = 1 degree.
 
