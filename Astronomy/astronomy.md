@@ -1,4 +1,4 @@
-<h1>Newtonian Gravity</h1>
+<h1>Astronomy</h1>
 
 __Newton's Law of Gravity__: Every particle attracts any other particle with a gravitational force of magnitude:
 
@@ -64,3 +64,18 @@ or in terms of days:
 thus:
 
 ![equation](https://latex.codecogs.com/gif.latex?T%5Capprox%2027%2C3%20%5C%20days)
+
+<br>
+<br>
+
+__Parsec__: 3,085 x 10<sup>16</sup>m
+
+<br>
+<br>
+
+__Arcs__: 
+
+- 60 arc seconds = 1 arc minute. 
+
+-60 arc minutes = 1 degree.ZA
+
